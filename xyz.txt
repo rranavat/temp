@@ -1,1 +1,2 @@
-change in firstBranch
+change in firstBranch 
+editing through terminal
